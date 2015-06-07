@@ -1,0 +1,12 @@
+{
+	"name": "chrisgriffith.zurbappshints",
+	"title": "Zurb Foundation for Apps Framework Code Hinting",
+	"description": "Code hinting for the Zurb Foundation for Apps Framework",
+	"homepage": "http://www.aj-software.com/",
+	"version": "0.1.0",
+	"author": "Chris Griffith <chris.griffith@gmail.com> (http://aj-software.com)",
+	"license": "ClearBSD",
+	"engines": {
+		"brackets": ">=1.0.0"
+	}
+}
